@@ -88,6 +88,8 @@ public class GT4500 implements SpaceShip {
     		  secondSuccess = secondaryTorpedoStore.fire(1);
     	  }
     	  firingSuccess = firstSuccess || secondSuccess;
+    	  
+    	  //Comment Branch A
 
         break;
     }
